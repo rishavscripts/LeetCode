@@ -11,4 +11,16 @@ This Repository is all about the DSA Questions and their Solutions from LEETCODE
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rishavscripts/LeetCode/tree/master/0001-two-sum) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/rishavscripts/LeetCode/tree/master/0002-add-two-numbers) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/rishavscripts/LeetCode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/rishavscripts/LeetCode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
