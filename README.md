@@ -7,6 +7,7 @@ This Repository is all about the DSA Questions and their Solutions from LEETCODE
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rishavscripts/LeetCode/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/rishavscripts/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -23,4 +24,8 @@ This Repository is all about the DSA Questions and their Solutions from LEETCODE
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/rishavscripts/LeetCode/tree/master/0002-add-two-numbers) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/rishavscripts/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
