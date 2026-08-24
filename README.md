@@ -8,6 +8,7 @@ This Repository is all about the DSA Questions and their Solutions from LEETCODE
 | ------- |
 | [0001-two-sum](https://github.com/rishavscripts/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rishavscripts/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/rishavscripts/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
 |  |
 | ------- |
@@ -28,4 +29,8 @@ This Repository is all about the DSA Questions and their Solutions from LEETCODE
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rishavscripts/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/rishavscripts/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
