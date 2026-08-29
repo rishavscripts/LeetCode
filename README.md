@@ -12,11 +12,13 @@ This Repository is all about the DSA Questions and their Solutions from LEETCODE
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rishavscripts/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/rishavscripts/LeetCode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/rishavscripts/LeetCode/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/rishavscripts/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rishavscripts/LeetCode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/rishavscripts/LeetCode/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/rishavscripts/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Linked List
 |  |
 | ------- |
@@ -33,6 +35,7 @@ This Repository is all about the DSA Questions and their Solutions from LEETCODE
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rishavscripts/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/rishavscripts/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -46,8 +49,13 @@ This Repository is all about the DSA Questions and their Solutions from LEETCODE
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/rishavscripts/LeetCode/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/rishavscripts/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/rishavscripts/LeetCode/tree/master/0136-single-number) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/rishavscripts/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
