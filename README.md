@@ -8,6 +8,7 @@ This Repository is all about the DSA Questions and their Solutions from LEETCODE
 | ------- |
 | [0001-two-sum](https://github.com/rishavscripts/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rishavscripts/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0066-plus-one](https://github.com/rishavscripts/LeetCode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rishavscripts/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rishavscripts/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/rishavscripts/LeetCode/tree/master/0136-single-number) |
@@ -27,6 +28,7 @@ This Repository is all about the DSA Questions and their Solutions from LEETCODE
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/rishavscripts/LeetCode/tree/master/0002-add-two-numbers) |
+| [0066-plus-one](https://github.com/rishavscripts/LeetCode/tree/master/0066-plus-one) |
 ## Recursion
 |  |
 | ------- |
