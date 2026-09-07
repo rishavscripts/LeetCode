@@ -16,12 +16,14 @@ This Repository is all about the DSA Questions and their Solutions from LEETCODE
 | [0217-contains-duplicate](https://github.com/rishavscripts/LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/rishavscripts/LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/rishavscripts/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/rishavscripts/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rishavscripts/LeetCode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/rishavscripts/LeetCode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/rishavscripts/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/rishavscripts/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -43,6 +45,7 @@ This Repository is all about the DSA Questions and their Solutions from LEETCODE
 | [0189-rotate-array](https://github.com/rishavscripts/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/rishavscripts/LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/rishavscripts/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/rishavscripts/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -57,6 +60,7 @@ This Repository is all about the DSA Questions and their Solutions from LEETCODE
 | ------- |
 | [0217-contains-duplicate](https://github.com/rishavscripts/LeetCode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/rishavscripts/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/rishavscripts/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -65,4 +69,5 @@ This Repository is all about the DSA Questions and their Solutions from LEETCODE
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/rishavscripts/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/rishavscripts/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
