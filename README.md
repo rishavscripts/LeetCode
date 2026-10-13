@@ -18,6 +18,7 @@ This Repository is all about the DSA Questions and their Solutions from LEETCODE
 | [0349-intersection-of-two-arrays](https://github.com/rishavscripts/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rishavscripts/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/rishavscripts/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0941-valid-mountain-array](https://github.com/rishavscripts/LeetCode/tree/master/0941-valid-mountain-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rishavscripts/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Hash Table
 |  |
